@@ -26,8 +26,8 @@
 ### 📊 GitHub Stats (Thống kê động)
 <!-- Thẻ thống kê tự động cập nhật hiệu ứng Dark Mode -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgentZoil&show_icons=true&theme=tokyonight&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgentZoil&layout=compact&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TBNRGarret&show_icons=true&theme=tokyonight&count_private=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TBNRGarret&layout=compact&theme=tokyonight" height="180px" />
 </p>
 
 ---
