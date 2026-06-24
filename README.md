@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi There! <img src="https://media.giphy.com/media/hvRJCLFwcasr6/giphy.gif" width="30px">
 
-<!--
-**TBNRGarret/TBNRGarret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Hiệu ứng chữ gõ động (Typing Animation) -->
+## I'm Vu Le Hoang
+###  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&vCenter=true&width=500&lines=Major+in+Artificial+Intelligence;Studying+at+Swinburne;A+passionate+AI+Engineer" alt="Typing SVG" /></a>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education & Focus
+- 🏫 Currently studying at: **Swinburne University**.
+- 🎯 Major: **Artificial Intelligence (AI)**.
+- 🧠 Deeply interested in: Machine Learning, Deep Learning, Computer Vision & Big Data.
+
+---
+
+### 💻 AI & Data Tech Stack
+<!-- Các icon công nghệ tự động sáng/đổi màu - Đã thêm các thư viện AI phổ biến -->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,r,matlab,git,github,vscode" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats (Thống kê động)
+<!-- Thẻ thống kê tự động cập nhật hiệu ứng Dark Mode thời thượng -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AgentZoil&show_icons=true&theme=tokyonight&count_private=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgentZoil&layout=compact&theme=tokyonight" height="180px" />
+</p>
+
+---
+
+### 📫 How to reach me:
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
