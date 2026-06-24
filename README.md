@@ -7,24 +7,24 @@
 ---
 
 ### 🎓 Education & Focus
-- 🏫 Currently studying at: **Swinburne University**.
+- 🏫 Currently studying at: **Swinburne University of Technology**.
 - 🎯 Major: **Artificial Intelligence (AI)**.
-- 🧠 Deeply interested in: Machine Learning, Deep Learning, Computer Vision & Big Data.
+- 🧠 Deeply interested in: Machine Learning, Deep Learning, Computer Vision, Generative AI & Big Data.
 
 ---
 
 ### 💻 AI & Data Tech Stack
-<!-- Các icon công nghệ tự động sáng/đổi màu - Đã thêm các thư viện AI phổ biến -->
+<!-- Các icon công nghệ tự động sáng/đổi màu -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,r,matlab,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,r,matlab,git,github,vscode,docker,linux" />
   </a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats (Thống kê động)
-<!-- Thẻ thống kê tự động cập nhật hiệu ứng Dark Mode thời thượng -->
+<!-- Thẻ thống kê tự động cập nhật hiệu ứng Dark Mode -->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AgentZoil&show_icons=true&theme=tokyonight&count_private=true" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgentZoil&layout=compact&theme=tokyonight" height="180px" />
